@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5a471b52-50b1-4fca-81a3-024c74acc8d5" name="Changes" comment="" />
+    <list default="true" id="5a471b52-50b1-4fca-81a3-024c74acc8d5" name="Changes" comment="Checked and Unchecked Exception">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,6 +54,14 @@
       <option name="presentableId" value="Default" />
       <updated>1633412227489</updated>
     </task>
+    <task id="LOCAL-00001" summary="Checked and Unchecked Exception">
+      <created>1633414247919</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1633414247919</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -65,5 +75,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Checked and Unchecked Exception" />
+    <option name="LAST_COMMIT_MESSAGE" value="Checked and Unchecked Exception" />
   </component>
 </project>
