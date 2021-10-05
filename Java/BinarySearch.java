@@ -1,4 +1,4 @@
-package com.hussain;
+// Binary search implementation in java. It will return target elements index. suppose target is 15 so it will return 6.
 
 public class BinarySearch {
 
