@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5a471b52-50b1-4fca-81a3-024c74acc8d5" name="Changes" comment="Checked and Unchecked Exception">
+    <list default="true" id="5a471b52-50b1-4fca-81a3-024c74acc8d5" name="Changes" comment="Bubble Sorting">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,6 +36,9 @@
       </RecentBranches>
     </option>
   </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="01c01a34-a5f6-43eb-a517-949d018c57e3" />
+  </component>
   <component name="ProjectId" id="1z4fLmbPgekcmrv0TxfjK4tQOOs" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -44,6 +47,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File" value="JAVA" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -61,7 +65,14 @@
       <option name="project" value="LOCAL" />
       <updated>1633414247919</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Bubble Sorting">
+      <created>1633418076196</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1633418076196</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -78,6 +89,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Checked and Unchecked Exception" />
-    <option name="LAST_COMMIT_MESSAGE" value="Checked and Unchecked Exception" />
+    <MESSAGE value="Bubble Sorting" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bubble Sorting" />
   </component>
 </project>
